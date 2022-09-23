@@ -5,3 +5,6 @@ dosa
 idly
 
 chapati
+
+pizza
+juice
